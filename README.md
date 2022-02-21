@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @PauloVinicius02131 specialist on PowerBI
 - 👀 I’m interested in 
   - Python
+  -JavaScript
   - Sql ( Ora ) 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on PowerBi
 - 📫 How to reach me pauloviniciusdesouza@live.com or +55 35 9999 32618
 
