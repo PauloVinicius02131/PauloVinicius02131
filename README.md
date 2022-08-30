@@ -9,7 +9,8 @@
 
 - 📫 How to reach me pauloviniciusdesouza@live.com or +55 35 9999 32618
 
-<img src="[https://vercel.com/paulovinicius02131/githubreadmelinkedin]/[/experience]?username=[paulo-vinicius-souza-83709919a]" />
+
+<img src="https://vercel.com/paulovinicius02131/githubreadmelinkedin/user?username=paulovinicius02131" width="730" height="100" />
 
 <div style="display: inline_block"align="center"><br>
     <img align="center" alt="P-SQL" height="30" width="40"
