@@ -1,11 +1,11 @@
 # Olá Mundo !!! Eu sou o Paulo Vinicius.
 
 <div style="display: inline_block"align="left"><br>
-    <img align="center" alt="P-SQL" height="30" width="60"
+    <a href="//www.google.com"><img align="center" alt="P-SQL" height="30" width="60"
         src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-    <img align="center" alt="P-Python" height="30" width="60"
+    <a href="//www.google.com"><img align="center" alt="P-Python" height="30" width="60"
         src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-     <img align="center" alt="P-HTML" height="30" width="40"
+     <a href="//www.g1.com"><img align="center" alt="P-HTML" height="30" width="40"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
       <a href="//www.google.com"><img align="center" alt="P-HTML" height="30" width="40"
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
