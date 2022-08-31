@@ -3,7 +3,7 @@
 <div href="https://google.com">
 <img align="center" alt="Gmail" height="30" width="60"
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<div>
+</div>
 
 - 👀 I’m Working with:
   - PowerBI 
