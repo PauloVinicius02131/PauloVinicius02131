@@ -30,7 +30,7 @@
 
 
 
-<img src="https://githubreadmelinkedin.vercel.app/user?username=paulo-vinicius-souza-83709919a" width="730" height="100" />
+<img src="https://githubreadmelinkedin.vercel.app/user?username=paulo-vinicius-souza-83709919a"/>
 
 
  ![Snake animation](https://github.com/PauloVinicius02131/PauloVinicius02131/blob/output/github-contribution-grid-snake.svg)
