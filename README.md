@@ -2,7 +2,7 @@
 
 <div>
         <p></p> 
-        <a href="https://google.com">
+        <a href="mailto:pauloviniciusdesouza@live.com">
         <img align="center" alt="Gmail" height="30" width="60"
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
