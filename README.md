@@ -9,9 +9,6 @@
 
 - 📫 How to reach me pauloviniciusdesouza@live.com or +55 35 9999 32618
 
-
-
-
 <div style="display: inline_block"align="center"><br>
     <img align="center" alt="P-SQL" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
@@ -23,7 +20,7 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
          <p></p> 
     </div>
-
+    
 <div align="center">
  <p></p> 
   <a href="https://github.com/PauloVinicius02131">
@@ -31,6 +28,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVinicius02131&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
 
+
+<img src="https://githubreadmelinkedin-paulovinicius02131.vercel.app//experience?username=paulo-vinicius-souza-83709919a" />
 
 
  ![Snake animation](https://github.com/PauloVinicius02131/PauloVinicius02131/blob/output/github-contribution-grid-snake.svg)
