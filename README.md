@@ -1,4 +1,4 @@
-# Olá Mundo !!! Eu sou o Paulo Vinicius.
+# Hello World !!! I'm Paulo Vinicius.
 
 <div style="display: inline_block"align="left"><br>
     <a href="//www.google.com"><img align="center" alt="P-HTML" height="30" width="90"
@@ -15,7 +15,7 @@
 
 <div>   
     <br>
-<p>- 👀 I’m Working with:</p>
+<p>- 👀 I work with:</p>
   <img align="left" alt="PowerBI" height="30" width="90"
         src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
             <p>PowerQuerry - DAX - Tabular Editor</p></a>
