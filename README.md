@@ -2,24 +2,26 @@
 
 <div style="display: inline_block"align="left"><br>
     <a href="//www.google.com"><img align="center" alt="P-SQL" height="30" width="60"
-        src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+        src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
     <a href="//www.google.com"><img align="center" alt="P-Python" height="30" width="60"
-        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
      <a href="//www.g1.com"><img align="center" alt="P-HTML" height="30" width="40"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
       <a href="//www.google.com"><img align="center" alt="P-HTML" height="30" width="40"
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 
-         
+<div>   
+    <br>
 - 👀 I’m Working with:
   - PowerBI 
   - SQL
   - Python
   - HTML and CSS 
+    <br>
 - 💞️ I’m looking to collaborate on PowerBi
-
+</div>
 
 
 <div style="display: inline_block"align="center"><br>
