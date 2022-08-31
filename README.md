@@ -1,5 +1,10 @@
 # Olá Mundo !!! Eu sou o Paulo Vinicius.
 
+<img href="https://google.com" align="center" alt="Gmail" height="30" width="60"
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+
+
 - 👀 I’m Working with:
   - PowerBI 
   - SQL
@@ -7,7 +12,7 @@
   - HTML and CSS 
 - 💞️ I’m looking to collaborate on PowerBi
 
-- 📫 How to reach me pauloviniciusdesouza@live.com or +55 35 9999 32618
+
 
 <div style="display: inline_block"align="center"><br>
     <img align="center" alt="P-SQL" height="30" width="40"
