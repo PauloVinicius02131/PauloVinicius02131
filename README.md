@@ -1,7 +1,7 @@
 # Hello World !!! I'm Paulo Vinicius.
 
 <div style="display: inline_block"align="left"><br>
-    <a href="//www.google.com"><img align="center" alt="P-HTML" height="30" width="90"
+    <a href="https://www.linkedin.com/in/paulo-vinicius-souza-83709919a/"><img align="center" alt="P-HTML" height="30" width="90"
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="//www.g1.com"><img align="center" alt="P-HTML" height="30" width="90"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
