@@ -7,7 +7,7 @@
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="mailto:pauloviniciusdesouza@live.com"><img align="center" alt="P-SQL" height="30" width="90"
         src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-    <a href="https://wa.me/5531999923618"><img align="center" alt="P-Python" height="30" width="90"
+    <a href="https://wa.me/5535999923618"><img align="center" alt="P-Python" height="30" width="90"
         src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 
